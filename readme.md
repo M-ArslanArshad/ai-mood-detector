@@ -76,8 +76,10 @@ pip install -r requirements.txt
 
 4. **Download pre-trained model** (optional)
 ```bash
-# The model will be automatically downloaded on first run
-# Or download manually from: [Add your model link here]
+# Our model is built upon the
+facebook/wav2vec2-large-xlsr-53 pre-trained
+checkpoint.(available on Hugging face
+
 ```
 
 ## 💻 Usage
@@ -243,7 +245,7 @@ pre-commit install
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **wav2vec 2.0** by Facebook AI Research
 - **SAVEE Dataset** - University of Surrey
