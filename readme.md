@@ -7,8 +7,8 @@
 
 An AI-powered system capable of detecting human emotions through voice analysis with **97.46% accuracy**. Built by fine-tuning the wav2vec 2.0 model on emotional speech datasets.
 
-![Training Loss](assets/training_loss.png)
-![Model Accuracy](assets/model_accuracy.png)
+![Training Loss](assets/Train_Val_loss.png)
+![Model Accuracy](assets/Accuracy.png)
 
 ## 📋 Table of Contents
 - [Features](#features)
