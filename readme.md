@@ -233,17 +233,16 @@ pre-commit install
 
 ## 👥 Authors
 
-- **Ghulam Ahmad** (305) - [2021ee305@uet.edu.pk](mailto:2021ee305@uet.edu.pk)
-- **Zeehsan Anjum** (299) - [2021ee299@uet.edu.pk](mailto:2021ee299@uet.edu.pk)
-- **Ahmed Shahfique** (313) - [2021ee313@uet.edu.pk](mailto:2021ee313@uet.edu.pk)
-- **Arslan Arshad** (314) - [2021ee314@uet.edu.pk](mailto:2021ee314@uet.edu.pk)
-
+- **M.Arslan Arshad**  - [2021ee314@uet.edu.pk](mailto:2021ee314@uet.edu.pk)
+- **Ghulam Ahmad**  - [2021ee305@uet.edu.pk](mailto:2021ee305@uet.edu.pk)
+-  **M.Zeeshan Anjum**  - [2021ee299@uet.edu.pk](mailto:2021ee299@uet.edu.pk)
+- **Ahmed Shafique**  - [2021ee313@uet.edu.pk](mailto:2021ee313@uet.edu.pk)
 *Department of Electrical Engineering*  
 *University of Engineering and Technology Lahore*
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](license_file.md) file for details.
 
 ##  Acknowledgments
 
